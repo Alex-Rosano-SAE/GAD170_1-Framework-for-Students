@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="_ProvidedBase" t="Include">
+            <e p="AnimationController.cs" t="Include" />
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="GameEvents.cs" t="Include" />
+            <e p="LockRotation.cs" t="Include" />
+            <e p="NPC.cs" t="Include" />
+            <e p="ParticleHandler.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="SFXHandler.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+          <e p="BattleHandler.cs" t="Include" />
+          <e p="Stats.cs" t="Include" />
+          <e p="StatsGenerator.cs" t="Include" />
+          <e p="XPHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GAD170_1 Framework for Students.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_GAD170_1 Framework for Students.-1588795913.00" t="ExcludeRecursive" />
+  </component>
+</project>
